@@ -8,9 +8,9 @@ sidebar_position: 1
 
 ## Các phần:
 
-- Cách tạo một sản phẩm cho trang web [docusaurus.new](https://docusaurus.new)**.
-- Cách sửa một sản phẩm cho trang web [docusaurus.new](https://docusaurus.new)**.
-- Cách xóa một sản phẩm cho trang web [docusaurus.new](https://docusaurus.new)**.
+- Cách tạo một sản phẩm cho trang web **[:link:](./products-doc/create-products.md)**.
+- Cách sửa một sản phẩm cho trang web **[:link:](./products-doc/create-products.md)**.
+- Cách xóa một sản phẩm cho trang web **[:link:](./products-doc/create-products.md)**.
 
 <!-- ### What you'll need
 
