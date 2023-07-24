@@ -28,6 +28,26 @@ const sidebars = {
           type: 'doc',
           id: 'products-doc/create-doc',
         },
+        {
+          type: 'doc',
+          id: 'products-doc/edit-doc',
+        },
+        {
+          type: 'doc',
+          id: 'products-doc/delete-doc',
+        },
+        {
+          type: 'doc',
+          id: 'products-doc/categories-doc',
+        },
+        {
+          type: 'doc',
+          id: 'products-doc/tags-doc',
+        },
+        {
+          type: 'doc',
+          id: 'products-doc/brands-doc',
+        },
       ],
     },
   ],
