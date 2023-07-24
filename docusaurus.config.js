@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Document',
-  tagline: 'Druco document',
+  tagline: 'Druco document version 1.0',
   favicon: 'img/favicon-16x16.png',
 
   // Set the production url of your site here

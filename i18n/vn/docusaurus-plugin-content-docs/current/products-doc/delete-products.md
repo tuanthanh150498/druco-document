@@ -24,7 +24,7 @@ sidebar_position: 5
   alt="Example banner"
 />
 
-### ** Bước 3: ** Rê chuột đến tên sản phẩm cần xóa, click chọn <span style={{color:"red"}}>Trash</span>.
+### ** Bước 3: ** Rê chuột đến tên sản phẩm cần xóa, click chọn Trash.
 
 <img
   src={require('/images/edit-product.png').default}
