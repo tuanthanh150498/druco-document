@@ -11,7 +11,7 @@ sidebar_position: 1
 - Cách tạo một sản phẩm cho trang web **[:link:](./products-doc/create-products.md)**.
 - Cách sửa một sản phẩm cho trang web **[:link:](./products-doc/edit-products.md)**.
 - Cách xóa một sản phẩm cho trang web **[:link:](./products-doc/delete-products.md)**.
-- Cách thêm/sửa/xóa một thể loại cho sản phẩm **[:link:](./products-doc/categories-products.md)**.
+- Cách thêm/sửa/xóa một danh mục cho sản phẩm **[:link:](./products-doc/categories-products.md)**.
 - Cách thêm/sửa/xóa một thẻ cho sản phẩm **[:link:](./products-doc/tags-products.md)**.
 - Cách thêm/sửa/xóa một nhãn hiệu cho sản phẩm **[:link:](./products-doc/brands-products.md)**.
 

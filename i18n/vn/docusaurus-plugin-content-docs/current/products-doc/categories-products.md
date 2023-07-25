@@ -1,15 +1,15 @@
 ---
 id: categories-doc
-title: Tùy chỉnh thể loại sản phẩm
+title: Tùy chỉnh danh mục sản phẩm
 description: How to add/edit/delete products
-slug: /tuy-chinh-the-loai-san-pham
-sidebar_label: 'Tùy chỉnh thể loại sản phẩm'
+slug: /tuy-chinh-danh-muc-san-pham
+sidebar_label: 'Tùy chỉnh danh mục sản phẩm'
 sidebar_position: 6
 ---
 
-# Thể loại sản phẩm
+# danh mục sản phẩm
 
-## Thêm một thể loại cho sản phẩm
+## Thêm một danh mục cho sản phẩm
 
 ### ** Bước 1: ** Đăng nhập vào Trang Admin
 
@@ -26,18 +26,18 @@ sidebar_position: 6
   alt="Example banner"
 />
 
-### ** Bước 3: ** Để thêm 1 thể loại mới cho sản phẩm, thêm các thông tin như sau:
-**1. Name:** Tên thể loại cẩn tạo
+### ** Bước 3: ** Để thêm 1 danh mục mới cho sản phẩm, thêm các thông tin như sau:
+**1. Name:** Tên danh mục cẩn tạo
 
-**2. Slug:** Tên đường dẫn(Url) của thể loại (vd: xe-hoi, xe-may,...)
+**2. Slug:** Tên đường dẫn(Url) của danh mục (vd: xe-hoi, xe-may,...)
 
-**3. Parent Category:** Chọn thể loại cha (Có thể không thiết lập)
+**3. Parent Category:** Chọn danh mục cha (Có thể không thiết lập)
 
-**4. Description:** Mô tả của thể loại
+**4. Description:** Mô tả của danh mục
 
 **5. Display Type:** (Có thể không thiết lập)
 
-**6. Thumbnail:** Hình của thể loại (Có thể thêm nếu có)
+**6. Thumbnail:** Hình của danh mục (Có thể thêm nếu có)
 
 **7. Breadcrumbs Background Image:** (Có thể không thiết lập)
 
@@ -52,20 +52,20 @@ sidebar_position: 6
 
 ### ** Bước 4: ** Sau đó nhấn Add new category để thêm mới
 
-## Chỉnh sửa thể loại của sản phẩm
+## Chỉnh sửa danh mục của sản phẩm
 
 ### ** Bước 1: ** Chọn mục "Products/Categories" ở thanh sidebar bên trái
 
-### ** Bước 2: ** Chọn thể loại cần chỉnh sửa ở bảng bên phải
+### ** Bước 2: ** Chọn danh mục cần chỉnh sửa ở bảng bên phải
 
-### ** Bước 3: ** Rê chuột đến tên thể loại cần chỉnh sửa, click chọn edit
+### ** Bước 3: ** Rê chuột đến tên danh mục cần chỉnh sửa, click chọn edit
 
 <img
   src={require('/images/edit-category.png').default}
   alt="Example banner"
 />
 
-### ** Bước 4: ** Chỉnh sửa thể loại theo [các phần](/docs/tuy-chinh-the-loai-san-pham#-bước-3--để-thêm-1-thể-loại-mới-cho-sản-phẩm-thêm-các-thông-tin-như-sau) giống thêm mới
+### ** Bước 4: ** Chỉnh sửa danh mục theo [các phần](/docs/tuy-chinh-the-loai-san-pham#-bước-3--để-thêm-1-thể-loại-mới-cho-sản-phẩm-thêm-các-thông-tin-như-sau) giống thêm mới
 
 <img
   src={require('/images/edit-category-page.png').default}
@@ -74,13 +74,13 @@ sidebar_position: 6
 
 ### ** Bước 5: ** Nhấn update
 
-## Xóa thể loại của sản phẩm
+## Xóa danh mục của sản phẩm
 
 ### ** Bước 1: ** Chọn mục "Products/Categories" ở thanh sidebar bên trái
 
-### ** Bước 2: ** Chọn thể loại cần xóa ở bảng bên phải
+### ** Bước 2: ** Chọn danh mục cần xóa ở bảng bên phải
 
-### ** Bước 3: ** Rê chuột đến tên thể loại cần xóa, click chọn delete
+### ** Bước 3: ** Rê chuột đến tên danh mục cần xóa, click chọn delete
 
 <img
   src={require('/images/edit-category.png').default}
