@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Document',
-  tagline: 'Druco document version 1.0',
+  tagline: 'Orcholive document version 1.0',
   favicon: 'img/favicon-16x16.png',
 
   // Set the production url of your site here
@@ -131,7 +131,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Druco Document`,
+        copyright: `Copyright © ${new Date().getFullYear()} Orcholive Document`,
       },
       prism: {
         theme: lightCodeTheme,
