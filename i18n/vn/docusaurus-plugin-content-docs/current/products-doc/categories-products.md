@@ -65,7 +65,7 @@ sidebar_position: 6
   alt="Example banner"
 />
 
-### ** Bước 4: ** Chỉnh sửa danh mục theo [các phần](/docs/tuy-chinh-the-loai-san-pham#-bước-3--để-thêm-1-thể-loại-mới-cho-sản-phẩm-thêm-các-thông-tin-như-sau) giống thêm mới
+### ** Bước 4: ** Chỉnh sửa danh mục theo [các phần](/docs/tuy-chinh-danh-muc-san-pham#-bước-3--để-thêm-1-thể-loại-mới-cho-sản-phẩm-thêm-các-thông-tin-như-sau) giống thêm mới
 
 <img
   src={require('/images/edit-category-page.png').default}
